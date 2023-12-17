@@ -1,0 +1,64 @@
+[
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Apr/10/Photo_h600_w900/66439247_10_hatsAppImage20230410at11.53.34_600_900.jpeg",
+        "name":" Vikram Tripuraneni",
+        "price":"₹94 Lac",
+        "detail":"3 BHK Flat For Sale in Central Court Apartments, Somajiguda, Hyderabad"
+        
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Apr/10/Photo_h300_w450/66439247_1_hatsAppImage20230410at11.53.351_300_450.jpeg",
+        "name":" Balaji Prasanna",
+        "price":"₹ 6 Cr",
+        "detail":"4 BHK House for Sale in AS Rao Nagar Hyderabad"
+        
+    },
+    {
+         "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/May/25/Photo_h300_w450/9949_IMG20230525WA0005_300_450.jpg",
+        "name":"kalyani",
+        "price":"₹ 2 Cr",
+        "detail":"Owner's 3 BHK Flat for Sale A S Rao Nagar Kapra Hyderabad"
+       
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Sep/16/Photo_h300_w450/69105165_8_PropertyImage783-2378216469991_300_450.jpg",
+        "name":"priyanka",
+        "price":"₹ 1.2 Cr",
+        "detail":"3 BHK House for Sale in Rajiv Gandhi Nagar Suraram Hyderabad "
+        
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Jun/09/Photo_h300_w450/67444021_3_PropertyImage960-7534050370111_300_450.jpg",
+        "name":"mahesh",
+        "price":"₹ 1.8 Cr",
+        "detail":"3 BHK Villa for Sale in Kollur, Outer Ring Road Hyderabad"
+        
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Aug/04/Photo_h600_w900/68464549_2_PropertyImage363-2639326963061_600_900.jpg",
+        "name":"rajendar",
+        "price":"₹ 9 Cr",
+        "detail":"2 BHK House for Sale in Chitkul Hyderabad"
+        
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Nov/05/Photo_h300_w450/69464189_1_1699187959943-4611_300_450.jpg",
+        "name":"harish",
+        "price":"₹ 75 lac",
+        "detail":"3 BHK House for Sale in Rampally Hyderabad "
+        
+    },
+    {
+        "image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Oct/16/Photo_h300_w450/69590871_5_PropertyImage5-81738136623311_300_450.jpg ",
+        "name":"yella raju",
+        "price":"₹ 58 lac",
+        "detail":"Owner's 2 BHK Flat for Sale in Sri Sai Residency Ecil ECIL"
+        
+    },
+    {"image":"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Aug/18/Photo_h300_w450/7f383960-b118-45f9-9f85-5b1fe318d54b_68451575_300_450.jpg ",
+        "name":"raghupathi",
+        "price":"₹ 3.1 Cr",
+        "detail":"Owner's Plot for Sale in Westerne County Shankarpalli Road "
+        
+    }
+]

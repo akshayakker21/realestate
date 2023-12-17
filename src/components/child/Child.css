@@ -1,0 +1,31 @@
+.child-wrapper{
+    color: aliceblue;
+    position: relative;
+    padding-bottom: 2rem;
+}
+.child-container{
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.image-container{
+    width: 40rem;
+    height: 35rem;
+    overflow: hidden;
+    border-radius: 15rem 15rem 15rem 15rem;
+    border: 8px solid rgba(225, 225, 225, 0.12);
+}
+.image-container>img{
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-family: cursive;
+    font-size: 60px;
+
+}
+.Child-title{
+    padding-bottom: 10rem;
+}
+span{
+    font-size: 20px;
+}
