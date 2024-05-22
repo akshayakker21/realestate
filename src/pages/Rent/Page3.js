@@ -35,6 +35,9 @@ Freehold
     Additional Rooms : 
 Puja Room
     </ListGroupItem>
+    <ListGroupItem>
+    Contact : 9564254255
+    </ListGroupItem>
    
   </ListGroup>
 </Card>

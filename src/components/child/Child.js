@@ -29,7 +29,7 @@ function Child() {
       <div className='flexCenter child-right'>
         <div className='image-container'>
           
-          <img src='https://th.bing.com/th/id/R.6c2f7bd91232d4df42b91d526d4d110a?rik=W2M%2fbqusx40CLw&riu=http%3a%2f%2fwww.nabasoft.com%2fwp-content%2fuploads%2f2016%2f04%2freal_Estate.jpg&ehk=arsXz5L2FsAYHdkdSfSXEgVAgUoj8jf6XxNpW6j4A%2bU%3d&risl=&pid=ImgRaw&r=0' alt=''/>
+          <img src='https://th.bing.com/th/id/OIP.4qvs5goMJJ6qEW2OsXQPtgHaFj?rs=1&pid=ImgDetMain' alt=''/>
 
         </div>
 

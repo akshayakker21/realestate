@@ -50,7 +50,7 @@ function Buy() {
     </CardText>
     <Button  style={{width:250,backgroundColor:'blueviolet'}} onClick={() => navigate("/properties/card1")} >
     View Details
-    </Button>
+    </Button> 
   </CardBody>
 </Card>
 </div>
