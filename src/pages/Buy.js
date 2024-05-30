@@ -43,7 +43,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       3 BHK Flat For Sale in Central Court Apartments, Somajiguda, Hyderabad
+       3 BHK Flat For Sale in <br></br>Central Court Apartments,<br></br> Somajiguda, Hyderabad
     </CardSubtitle>
     <CardText>
     ₹94 Lac
@@ -76,7 +76,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       4 BHK House for Sale in AS Rao Nagar Hyderabad
+       4 BHK House for Sale in<br></br> AS Rao Nagar Hyderabad
     </CardSubtitle>
     <CardText>
     ₹ 6 Cr
@@ -108,7 +108,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       Owner's 3 BHK Flat for Sale A S Rao Nagar Kapra Hyderabad
+       Owner's 3 BHK Flat<br></br> for Sale A S Rao Nagar <br></br>Kapra Hyderabad
     </CardSubtitle>
     <CardText>
     ₹ 2 Cr
@@ -140,7 +140,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       3 BHK House for Sale in Rajiv Gandhi Nagar Suraram Hyderabad
+       3 BHK House for Sale in <br></br>Rajiv Gandhi Nagar <br></br>Suraram Hyderabad
     </CardSubtitle>
     <CardText>
     ₹ 1.2 Cr
@@ -172,7 +172,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-      3 BHK Villa for Sale in Kollur, Outer Ring Road Hyderabad
+      3 BHK Villa for Sale <br></br>in Kollur, Outer Ring <br></br>Road Hyderabad
     </CardSubtitle>
     <CardText>
     ₹ 1.8 Cr
@@ -204,7 +204,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       2 BHK House for Sale in Chitkul Hyderabad
+       2 BHK House for <br></br>Sale in Chitkul Hyderabad
     </CardSubtitle>
     <CardText>
     ₹ 9 Cr
@@ -236,7 +236,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       3 BHK House for Sale in Rampally Hyderabad 
+       3 BHK House for Sale<br></br> in Rampally Hyderabad 
     </CardSubtitle>
     <CardText>
     ₹ 75 lac
@@ -268,7 +268,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-      Owner's 2 BHK Flat for Sale in Sri Sai Residency Ecil ECIL
+      Owner's 2 BHK Flat <br></br>for Sale in Sri Sai<br></br> Residency Ecil ECIL
     </CardSubtitle>
     <CardText>
     ₹ 58 lac
@@ -301,7 +301,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       Owner's Plot for Sale in Westerne County Shankarpalli Road 
+       Owner's Plot for<br></br> Sale in Westerne County <br></br>Shankarpalli Road 
     </CardSubtitle>
     <CardText>
     ₹ 3.1 Cr
@@ -333,7 +333,7 @@ function Buy() {
       className="mb-2 text-muted"
       tag="h6"
     >
-       3 BHK Flat For Sale in Central Court Apartments, Somajiguda
+       3 BHK Flat For Sale <br></br>in Central Court Apartments, <br></br>Somajiguda
     </CardSubtitle>
     <CardText>
     ₹1 cr
