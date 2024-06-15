@@ -7,7 +7,7 @@ nav {
     justify-content: space-between;
     align-items: center;
     background-color: #b1bbc31f;
-    color: rgb(4, 2, 2);
+    color: white;
     position: inherit;
     top: 0;
 }
@@ -55,7 +55,7 @@ nav .menu {
 nav .menu span {
     height: 0.4rem;
     width: 100%;
-    background-color: #fff;
+    background-color: #211e1e;
     border-radius: 0.2rem;
 }
 
