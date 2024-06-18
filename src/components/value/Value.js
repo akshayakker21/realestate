@@ -20,7 +20,7 @@ function Value() {
 
 
   return (
-    <div>
+    <div className='col-xl-12 col-lg-6 col-md-4 col-sm-6'>
 
         <section className='v-wrapper'>
             <div className='paddings innerWidth flexCenter v-container'>

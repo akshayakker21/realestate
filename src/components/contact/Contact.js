@@ -79,7 +79,7 @@ function Contact() {
                     </div>
                 </div>
                 <div className='c-right'>
-                    <div className='image-container'>
+                    <div className='col-xl-12 col-lg-6 col-md-4 col-sm-6 image-container'>
                         {/* <img src='https://th.bing.com/th/id/R.6c2f7bd91232d4df42b91d526d4d110a?rik=W2M%2fbqusx40CLw&riu=http%3a%2f%2fwww.nabasoft.com%2fwp-content%2fuploads%2f2016%2f04%2freal_Estate.jpg&ehk=arsXz5L2FsAYHdkdSfSXEgVAgUoj8jf6XxNpW6j4A%2bU%3d&risl=&pid=ImgRaw&r=0' alt=''/>
                          */}
                           <img src='https://th.bing.com/th/id/R.54afef8d30a96aec0b08c7c87b02f58b?rik=jVftgkGHLKmStQ&riu=http%3a%2f%2fwww.contemporist.com%2fwp-content%2fuploads%2f2015%2f09%2fapartment-building_110915_03.jpg&ehk=NQgvF2ndNL%2fmkpVqfVOcPyxsihUEAUT8s%2b8hGgr%2fpxg%3d&risl=&pid=ImgRaw&r=0' alt=''></img>
