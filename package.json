@@ -1,4 +1,4 @@
-{
+{ "homepage": "https://akshayakker21.github.io/realestate",
   "name": "estate",
   "version": "0.1.0",
   "private": true,
@@ -26,7 +26,8 @@
     "yarn": "^1.22.21"
   },
   "scripts": {
-   
+    "predeploy": "npm run build",
+"deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
